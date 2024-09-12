@@ -1,1 +1,1 @@
-print("I Like Orange")
+print("I like Orange")
